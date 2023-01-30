@@ -1,0 +1,14 @@
+1) download from apache maven (binary version)
+
+2) extract
+
+3) copy folder after extraction and paste in to program file 
+
+4) set the envierment variable
+
+cmd command ---> mvn --version
+
+
+Advantages 
+1] gives readymade project structure.
+2] no need to add jars externally
